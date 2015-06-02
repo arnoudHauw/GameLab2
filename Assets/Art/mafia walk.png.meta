@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: ab00c276c4968bb4c829772f791ff104
+timeCreated: 1433184425
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mafia walk_0
+    21300002: mafia walk_1
+    21300004: mafia walk_2
+    21300006: mafia walk_3
+    21300008: mafia walk_4
+    21300010: mafia walk_5
+    21300012: mafia walk_6
+    21300014: mafia walk_7
+    21300016: mafia walk_8
+    21300018: mafia walk_9
+    21300020: mafia walk_10
+    21300022: mafia walk_11
+    21300024: mafia walk_12
+    21300026: mafia walk_13
+    21300028: mafia walk_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mafia walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1707
+        width: 251
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mafia walk_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1707
+        width: 251
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mafia walk_2
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1707
+        width: 251
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mafia walk_3
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1707
+        width: 251
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mafia walk_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1366
+        width: 251
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mafia walk_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1366
+        width: 251
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mafia walk_6
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1366
+        width: 251
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mafia walk_7
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1366
+        width: 251
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mafia walk_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1025
+        width: 251
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mafia walk_9
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1025
+        width: 251
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mafia walk_10
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1025
+        width: 251
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mafia walk_11
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1025
+        width: 251
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mafia walk_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 684
+        width: 251
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mafia walk_13
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 684
+        width: 251
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mafia walk_14
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 684
+        width: 251
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
